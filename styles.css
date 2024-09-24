@@ -1,0 +1,250 @@
+.bg{
+    background-image: url(ww.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.bg10{
+    background-image: url(https://c1.wallpaperflare.com/preview/396/728/1010/beans-black-black-background-brown.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar{
+    display: flex;
+    padding-top: 10px;
+    padding: 30px;
+    padding-bottom: -10px;
+}
+a{
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin-top: -20px;
+    text-decoration: none;
+}
+.container2{
+    margin-top: 60px;
+}
+#sbtn{
+    border: 1px solid whitesmoke;
+    padding: 15px 40px;
+    background: transparent;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    
+}
+#sbtn:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    font-size: 20px;
+
+}
+.container3{
+    margin-top: 20px;
+    background-color: white;
+    padding-bottom: 50px;
+
+}
+.content{
+    padding-top: 100px;
+}
+.content2{
+     display: flex;
+     justify-content: space-between;
+
+}
+.c1>img{
+    width: 300px;
+}
+.container4{
+    background-image: url(2.bg.jpg);
+    height: 130vh;
+    background-size: cover;
+}
+.content3{
+    padding-top: 80px;
+}
+.content4{
+    display: flex;
+}
+.c2{
+    color: white;
+}
+.c2>img{
+    width: 400px;
+    margin: 20px;
+}
+#rbtn{
+    background-color: transparent;
+    border: none;
+    color:white;
+
+}
+#rbtn:hover{
+    color: black;
+    cursor: pointer;
+
+}
+
+.container5{
+    background-image: url(c2bg.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+}
+.container6{
+    padding-top: 80px;
+    display: flex;
+    background-color: white;
+    height: 40vh;
+}
+.c3{
+    text-align: center;
+}
+.container7{
+    background-image: url(https://www.ottomanscoffee.com/wp-content/uploads/2018/04/h1-bacground-img-1.jpg);
+    padding-top: 50px;
+}
+.content5{
+   display: flex;
+}
+.content6{
+    display: flex;
+ }
+ .content7{
+    display: flex;
+ }
+.c4>img{
+    width: 300px;
+}
+.c4>img:hover{
+    width: 320px;
+}
+.c4{
+    text-align: center;
+    color: grey;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+.c5>img{
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.c5>img:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;;
+    width: 320px;
+    
+}
+
+.cont1{
+    display: flex;
+
+}
+.cont2{
+    display: flex;
+}
+.container9{
+    background-image: url(https://www.ottomanscoffee.com/wp-content/uploads/2018/04/h1-bacground-img-1.jpg);
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    padding-left: 300px;
+}
+#cbtn{
+    border: 1px solid whitesmoke;
+    padding: 15px 40px;
+    background: rgb(173, 95, 81);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    
+
+}
+#cbtn:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    font-size: 20px;
+}
+.bg2{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(https://c1.wallpaperflare.com/preview/377/619/811/bar-cafe-coffee-coffee-beans.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container10{
+   color: white;
+    height: 100vh;
+    background-size: cover;
+    padding-top: 100px;
+}
+#email{
+    background: none;
+    height: 39px;
+    width: 250px;
+    border: 2px white solid;
+    text-align: center;
+    color: white;
+}
+#ss{
+    height: 45px;
+    width: 40px;
+    margin-bottom: -18px;
+    margin-left: -4px;
+
+}
+.container11{
+    background-color: rgb(54, 51, 51);
+    color: white;
+    padding-top: 25px;
+    display: flex;
+
+
+}
+.cc{
+    
+   margin-left: 100px;
+}
+.ii{
+    padding-left: 120vh;
+}
+.il{
+    padding-left: 120vh;
+}
+.container12{
+    padding-top: 50px;
+}
+.content11{
+     display: flex;
+     margin-left: 150px;
+
+}
+.content12{
+    display: flex;
+   margin-left: 150px;
+}
+.c12{
+    text-align: center;
+    color: grey;
+    justify-content: space-between;
+    margin-left: 20px
+}
+.c12>img{
+    width: 300px;
+    
+
+}
+.c12>img:hover{
+    border-radius: 80%;
+}
